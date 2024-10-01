@@ -1,0 +1,3 @@
+import time_series_visualizer
+
+time_series_visualizer.draw_line_plot()
